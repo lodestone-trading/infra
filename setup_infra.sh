@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Assuming python3.11 install
+# This software is developed by Lodestone Trading LLC and made freely available under the MIT License. All rights reserved.
+
+# Assuming python3 install
 sudo pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 
 cd ./mlflow
