@@ -24,3 +24,7 @@ bash setup.sh
 cd ../wireguard
 chmod +x setup.sh
 bash setup.sh
+
+cd ../influxdb
+chmod +x setup.sh
+bash setup.sh
