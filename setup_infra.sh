@@ -28,3 +28,7 @@ bash setup.sh
 cd ../influxdb
 chmod +x setup.sh
 bash setup.sh
+
+cd ../airflow
+chmod +x setup.sh
+bash setup.sh
